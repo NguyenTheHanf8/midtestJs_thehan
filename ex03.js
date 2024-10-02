@@ -1,0 +1,1 @@
+function highlightKeyword(content, keyword) {}
